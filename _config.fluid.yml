@@ -146,3 +146,7 @@ about:
   icons:
     - { class: 'iconfont icon-github-fill', link: 'https://github.com/clvie', tip: 'GitHub' }
     - { class: 'iconfont icon-wechat-fill', qrcode: '/img/wechat.png' }
+
+
+sitemap:
+    path: sitemap.xml

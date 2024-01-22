@@ -105,3 +105,8 @@ deploy:
   type: git
   repo: git@github.com:clvie/clvie.github.io.git
   branch: main
+
+
+
+sitemap:
+    path: sitemap.xml
