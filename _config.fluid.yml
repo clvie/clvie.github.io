@@ -137,9 +137,6 @@ banner_img: /img/default.png
 
 # 关于页面的配置
 about:
-  slogan:
-    enable: true
-    text: 关于我
   avatar: /img/avatar.png
   name: "CLV's Blog"
   intro: "这是我的关于页面"
