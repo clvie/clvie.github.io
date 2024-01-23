@@ -1,5 +1,5 @@
 ---
-title: about
+title: 关于
 layout: about
 date: 2024-01-21 16:24:21
 ---
