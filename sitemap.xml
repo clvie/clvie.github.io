@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://clvie.github.io/burpsuitehw/</loc>
+    
+    <lastmod>2024-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://clvie.github.io/about/index.html</loc>
     
     <lastmod>2024-01-23</lastmod>
@@ -31,7 +40,7 @@
 
   <url>
     <loc>http://clvie.github.io/</loc>
-    <lastmod>2024-01-23</lastmod>
+    <lastmod>2024-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,7 +48,7 @@
   
   <url>
     <loc>http://clvie.github.io/tags/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2024-01-23</lastmod>
+    <lastmod>2024-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
