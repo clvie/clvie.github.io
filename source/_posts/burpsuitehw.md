@@ -1,13 +1,13 @@
 ---
 title: 渗透工具---BurpSuite 插件开发之HelloWorld
 tags: [插件开发]
+excerpt: 这篇文章主要记录如何利用burp官方的新版API即MontoyaApi 写helloworld
+sticky: 3
 ---
 
 ### 简介
 
 这篇文章主要记录如何利用burp官方的新版API即MontoyaApi 写helloworld
-
-<!-- more -->
 
 ### 具体开发步骤
 

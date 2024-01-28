@@ -1,13 +1,14 @@
 ---
 title: Fiddler Inspectors AES解密插件开发
 tags: [插件开发]
+excerpt: 本文主要记录 从0开始 使用C#开发fiddler的解密插件的具体操作。
+sticky: 1
 ---
 
 ### 简介
 
 本文主要记录 从0开始 使用C#开发fiddler的解密插件的具体操作。
 
-<!-- more -->
 
 
 ### 开发背景
